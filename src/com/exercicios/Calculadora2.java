@@ -36,6 +36,8 @@ public class Calculadora2 {
 					}
 				}
 			}
-		}	
+		}
+		
+		leia.close();
 	}
 }
